@@ -36,12 +36,8 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aliroohan/count.svg?"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/aliroohan/aliroohan/output/snake.svg" alt="Snake animation" />
-
-<<<<<<< HEAD
 ###
-=======
-###
->>>>>>> 8777049 (Created Readme profile)
