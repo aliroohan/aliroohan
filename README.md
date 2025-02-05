@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @aliroohan<br>- 👀 I’m interested in AI and problem Solving and web development<br>- 🌱 I’m currently learning Data Structures and Algorithms<br>- 📫 you can reach me on linkedin : https://www.linkedin.com/in/ali-roohan-945882279/</h2>
+<h2 align="left">👋 Hi, I’m @aliroohan<br>- 👀 I’m interested in AI and problem Solving and web development<br>- 🌱 I’m currently learning Frontend Development with Angular<br>- 📫 you can reach me on linkedin : https://www.linkedin.com/in/ali-roohan-945882279/</h2>
 
 ###
 
