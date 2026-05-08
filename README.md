@@ -17,7 +17,7 @@
 ### About Me
 
 - 👋 Hi, I am `@aliroohan`
-- 💼 Job-ready full-stack developer with 1.5+ years of practical experience
+- 💼 Full-stack developer with 1.5+ years of practical experience
 - 🧠 I enjoy combining strong engineering fundamentals with practical AI features
 - 🚀 I build end-to-end products across frontend, backend, APIs, real-time features, and deployment
 - 🤝 I like taking ownership, collaborating closely, and mentoring peers
