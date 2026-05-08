@@ -102,11 +102,11 @@
 - AI integrations with LLM APIs and agent workflows
 - System design fundamentals for better architecture decisions
 
-### Featured Work (Update Later)
+### Featured Work
 
-- `Wall Paint Visualizer` - React + TypeScript app with segmentation-based masking and interactive color controls.
-- `Image Forensics App` - Angular frontend with API-integrated forensic workflows.
-- `Text Extraction App` - Angular + Python OCR pipeline (Tesseract-based text extraction).
+- [`Wall Paint Visualizer`](https://leapsofts-paint-visualizer.vercel.app/) - React + TypeScript app with segmentation-based masking and interactive color controls.
+- [`Image Forensics App`](https://dip-project-frontend.vercel.app/) - Angular frontend with API-integrated forensic workflows.
+- [`Text Extraction App`](https://text-extraction-app.vercel.app/) - Angular + Python OCR pipeline (Tesseract-based text extraction).
 - `Babysitting App` - Node.js + MongoDB app with chat and role-based API flows.
 
 ### GitHub Stats
