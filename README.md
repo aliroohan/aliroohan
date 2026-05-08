@@ -17,11 +17,19 @@
 ### About Me
 
 - 👋 Hi, I am `@aliroohan`
-- 💼 Job-ready full-stack developer focused on building reliable web apps
-- 🧠 I enjoy combining strong fundamentals with practical AI features
-- 🚀 I work across frontend, backend, APIs, and deployment
+- 💼 Job-ready full-stack developer with 1.5+ years of practical experience
+- 🧠 I enjoy combining strong engineering fundamentals with practical AI features
+- 🚀 I build end-to-end products across frontend, backend, APIs, real-time features, and deployment
+- 🤝 I like taking ownership, collaborating closely, and mentoring peers
 - 🌐 Portfolio: `https://aliroohan.vercel.app/`
 - 🔗 LinkedIn: `https://www.linkedin.com/in/ali-roohan/`
+
+### Experience Highlights
+
+- **Full Stack Developer (Part-Time), Dewford Technologies (06/2025 - Present)**  
+  Building and maintaining web applications with React and Node.js, integrating REST APIs with MongoDB, and shipping features like authentication, real-time chat, and dynamic dashboards.
+- **Web Developer Intern, Dewford Technologies (10/2024 - 05/2025)**  
+  Worked on responsive web applications using Angular, React, and Node.js while supporting feature delivery and debugging.
 
 ### Tech Stack
 
@@ -50,8 +58,12 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb" />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase" />
 </div>
+
+`Also used:` FastAPI, GraphQL, Supabase (PostgreSQL)
 
 #### Languages
 <div align="left">
@@ -89,6 +101,13 @@
 - Advanced TypeScript patterns for scalable codebases
 - AI integrations with LLM APIs and agent workflows
 - System design fundamentals for better architecture decisions
+
+### Featured Work (Update Later)
+
+- `Wall Paint Visualizer` - React + TypeScript app with segmentation-based masking and interactive color controls.
+- `Image Forensics App` - Angular frontend with API-integrated forensic workflows.
+- `Text Extraction App` - Angular + Python OCR pipeline (Tesseract-based text extraction).
+- `Babysitting App` - Node.js + MongoDB app with chat and role-based API flows.
 
 ### GitHub Stats
 
